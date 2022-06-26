@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 2.5rem;
+  line-height: 2rem;
+  color: #9AF1FE;
+}
+
+.main-p {
+  font-family: 'Comfortaa', cursive;
+  color: #9AF1FE;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Comfortaa', cursive;
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+  color: #11999E;
+  font-weight: normal;
+}
+
+h3, a{
+  font-family: 'Comfortaa', cursive;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.contact-messagge{
+  width: 40%;
+  margin: 40px auto 40px;
+}
+
+.myprofile {
+  height: 200px;
+  width: 150px;
+  border-radius: 300px;
+  padding: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img {
+  height: auto;
+  width: 25%;
+  border-radius: 200px;
+  float:left;
+  margin-right: 30px;
+}
+
+.music-img {
+  height: auto;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 280px;
+  bottom: 420px;
+
+}
+
+.top-container {
+  background-color: #01A7C2;
+  padding-top: 190px;
+}
+
+.middle-container {
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #01A7C2;
+  padding: 20px 20px;
+}
+
+a {
+  color: #00858F;
+  text-decoration: none;
+  margin: 10px 20px 10px;
+}
+
+a:hover {
+  color: white;
+}
+
+.copy-info {
+  color: white;
+}
+
+.get-info {
+  padding-bottom: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Comfortaa', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3ac4c9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #34eaed;
+  text-decoration: none;
+  margin: 30px auto;
+}
